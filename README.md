@@ -1,6 +1,6 @@
 # LanguagesLibrary
 
-Starting to learn English step by step! Here are some steps to help me begin:
+# Starting to learn English step by step! Here are some steps to help me begin:
 
 1. Basic Pronunciation and Phonetics
 Learn the Alphabet: Start with the 26 letters of the English alphabet, both uppercase and lowercase.
